@@ -3,7 +3,7 @@ const { MongoClient } =
 
 require("dotenv").config();
 
-const uri ="mongodb+srv://bhuvan:bhuvan123@m0.xdyubfb.mongodb.net/linkedinAutomation?retryWrites=true&w=majority&appName=M0";
+const uri ="mongodb+srv://bhuvan:bhuvan3@m0.xdyubfb.mongodb.net/linkedinAutomation?retryWrites=true&w=majority&appName=M0";
  
 
 async function connectDB() {
